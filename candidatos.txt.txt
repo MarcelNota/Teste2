@@ -1,0 +1,3 @@
+renamo;Renamo;Descrição do Renamo
+mdm;MDM;Descrição do MDM
+frelimo;Frelimo;Descrição do Frelimo

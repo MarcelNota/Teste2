@@ -1,0 +1,3 @@
+matola;Matola;100000
+boane;Boane;50000
+maputo;Maputo;200000
